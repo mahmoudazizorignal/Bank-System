@@ -1,0 +1,7 @@
+|Name                         |Address                      |Phone         |ID       |Balance         |BankType    |Minimum Balance|
+====================================================================================================================================
+ Mahmoud Mamdouh Abdelaziz     24st Talaat Harb, Giza        01127770855    FCAI-000  15168.4          Basic        0
+ Amr Hossam Aly                32st Ahmad Aly, Giza          01127770855    FCAI-001  55000            Saving       4000
+ Aly Amr Aly                   12st Gweida Khaled ,Giza      01127770855    FCAI-002  400              Saving       320
+ Ahmad Aly Salim               24st Talaat Harb, Giza        01127770855    FCAI-003  19000            Saving       700
+ Ahmad Aly Salim               24st Talaat harab             01127770855    FCAI-004  17000            Basic        0
